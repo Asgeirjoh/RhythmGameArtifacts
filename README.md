@@ -2,6 +2,9 @@
 Project Outline &amp; Design Model
 
 
+
+## Diagrams:
+
 Class Diagram:
 https://www.lucidchart.com/invitations/accept/df13a2d6-3ea3-4e0e-88f3-b394fdc23834
 
